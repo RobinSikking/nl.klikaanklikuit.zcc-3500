@@ -1,0 +1,24 @@
+{
+  "id": "nl.klikaanklikuit.zcc-3500",
+  "version": "1.0.0",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "name": {
+    "en": "KlikAanKlikUit ZCC-3500"
+  },
+  "description": {
+    "en": "Support for KlikAanKlikUit ZCC-3500"
+  },
+  "category": [
+    "lights"
+  ],
+  "permissions": [],
+  "images": {
+    "large": "/assets/images/large.png",
+    "small": "/assets/images/small.png"
+  },
+  "author": {
+    "name": "Robin Sikking",
+    "email": "robin.sikking@gmail.com"
+  }
+}
